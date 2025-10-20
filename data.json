@@ -792,13 +792,13 @@
         "readme"
       ],
       "frontmatter": {
+        "status": "active",
         "type": "test",
-        "title": "Test Note 2",
         "tags": [
           "testing",
           "backlinks"
         ],
-        "status": "active"
+        "title": "Test Note 2"
       },
       "date": "2025-10-20",
       "modified": null
@@ -1526,15 +1526,15 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "status": "draft",
-        "email": "ali@cs.washington.edu",
-        "research_focus": "Computer Vision, LLMs, Multimodal AI",
         "alignment_score": "87/100",
-        "date_created": "2025-10-14",
-        "university": "University of Washington",
-        "professor": "Ali Farhadi",
+        "lab": "RAIVN Lab",
+        "email": "ali@cs.washington.edu",
         "position": "Professor & CEO of Allen Institute for AI",
-        "lab": "RAIVN Lab"
+        "status": "draft",
+        "research_focus": "Computer Vision, LLMs, Multimodal AI",
+        "professor": "Ali Farhadi",
+        "date_created": "2025-10-14",
+        "university": "University of Washington"
       },
       "date": "2025-10-20",
       "modified": null
@@ -1563,14 +1563,14 @@
       "links": [],
       "frontmatter": {
         "position": "Professor",
-        "program": "UROP (Undergraduate Research Opportunities Program)",
-        "date_created": "2025-10-14",
-        "university": "University of Washington",
-        "status": "draft",
-        "professor": "Maya Cakmak",
         "alignment_score": "86/100",
-        "email": "mcakmak@cs.uw.edu",
+        "professor": "Maya Cakmak",
         "research_focus": "Human-Robot Interaction, ML for Robotics, End-User Programming",
+        "date_created": "2025-10-14",
+        "email": "mcakmak@cs.uw.edu",
+        "status": "draft",
+        "university": "University of Washington",
+        "program": "UROP (Undergraduate Research Opportunities Program)",
         "lab": "Human-Centered Robotics Lab"
       },
       "date": "2025-10-20",
@@ -1600,11 +1600,11 @@
       "links": [],
       "frontmatter": {
         "email": "ocj@eecs.umich.edu",
-        "university": "University of Michigan",
-        "alignment": "83/100",
+        "professor": "Chad Jenkins",
         "status": "draft",
+        "alignment": "83/100",
         "date": "2025-01-14",
-        "professor": "Chad Jenkins"
+        "university": "University of Michigan"
       },
       "date": "2025-01-14",
       "modified": null
@@ -1619,12 +1619,12 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "email": "berenson@eecs.umich.edu",
-        "status": "draft",
+        "university": "University of Michigan",
+        "alignment": "82/100",
         "date": "2025-01-14",
         "professor": "Dmitry Berenson",
-        "university": "University of Michigan",
-        "alignment": "82/100"
+        "status": "draft",
+        "email": "berenson@eecs.umich.edu"
       },
       "date": "2025-01-14",
       "modified": null
@@ -1639,12 +1639,12 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "email": "jjcorso@eecs.umich.edu",
-        "alignment": "80/100",
         "professor": "Jason Corso",
+        "university": "University of Michigan",
         "status": "draft",
         "date": "2025-01-14",
-        "university": "University of Michigan"
+        "alignment": "80/100",
+        "email": "jjcorso@eecs.umich.edu"
       },
       "date": "2025-01-14",
       "modified": null
@@ -1672,12 +1672,12 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "university": "University of Michigan",
         "professor": "Nima Fazeli",
-        "date": "2025-01-14",
-        "status": "draft",
+        "university": "University of Michigan",
         "email": "nfz@umich.edu",
-        "alignment": "79/100"
+        "alignment": "79/100",
+        "status": "draft",
+        "date": "2025-01-14"
       },
       "date": "2025-01-14",
       "modified": null
@@ -1693,11 +1693,11 @@
       "links": [],
       "frontmatter": {
         "status": "draft",
-        "email": "ramv@umich.edu",
-        "professor": "Ram Vasudevan",
+        "alignment": "81/100",
         "date": "2025-01-14",
-        "university": "University of Michigan",
-        "alignment": "81/100"
+        "professor": "Ram Vasudevan",
+        "email": "ramv@umich.edu",
+        "university": "University of Michigan"
       },
       "date": "2025-01-14",
       "modified": null
@@ -1712,15 +1712,15 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "status": "draft",
+        "university": "University of Washington",
         "email": "ranjay@cs.washington.edu",
-        "research_focus": "Computer Vision, NLP, Robotics, Vision-Language Models",
-        "professor": "Ranjay Krishna",
-        "date_created": "2025-10-14",
         "position": "Assistant Professor",
-        "alignment_score": "85/100",
+        "date_created": "2025-10-14",
+        "research_focus": "Computer Vision, NLP, Robotics, Vision-Language Models",
+        "status": "draft",
         "lab": "RAIVN Lab (Co-Director)",
-        "university": "University of Washington"
+        "professor": "Ranjay Krishna",
+        "alignment_score": "85/100"
       },
       "date": "2025-10-20",
       "modified": null
@@ -1735,16 +1735,16 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "email": "fox@cs.washington.edu",
-        "status": "draft",
-        "lab": "Robotics and State Estimation Lab",
-        "university": "University of Washington",
-        "professor": "Dieter Fox",
         "position": "Professor (also building robotics team at Allen Institute for AI)",
         "research_focus": "Robotics, Computer Vision, State Estimation, Robot Manipulation",
         "alignment_score": "84/100",
+        "professor": "Dieter Fox",
+        "email": "fox@cs.washington.edu",
         "recent_news": "Joined AI2 in July 2025 to lead robotics foundation models team",
-        "date_created": "2025-10-14"
+        "date_created": "2025-10-14",
+        "status": "draft",
+        "university": "University of Washington",
+        "lab": "Robotics and State Estimation Lab"
       },
       "date": "2025-10-20",
       "modified": null
@@ -1759,13 +1759,13 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "status": "draft",
         "university": "UIUC",
+        "professor": "Derek Hoiem",
         "email": "hoiem@illinois.edu",
-        "alignment_score": "78/100",
         "research_areas": "Computer Vision, 3D Understanding, Perception",
         "date_drafted": "2025-10-14",
-        "professor": "Derek Hoiem"
+        "alignment_score": "78/100",
+        "status": "draft"
       },
       "date": "2025-10-20",
       "modified": null
@@ -1780,13 +1780,13 @@
       "tags": [],
       "links": [],
       "frontmatter": {
-        "research_areas": "RL Theory, Policy Optimization, ML Theory",
-        "alignment_score": "77/100",
-        "professor": "Nan Jiang",
-        "date_drafted": "2025-10-14",
-        "status": "draft",
+        "university": "UIUC",
         "email": "njiang3@illinois.edu",
-        "university": "UIUC"
+        "alignment_score": "77/100",
+        "date_drafted": "2025-10-14",
+        "research_areas": "RL Theory, Policy Optimization, ML Theory",
+        "status": "draft",
+        "professor": "Nan Jiang"
       },
       "date": "2025-10-20",
       "modified": null
@@ -1801,12 +1801,12 @@
       "tags": [],
       "links": [],
       "frontmatter": {
+        "university": "UIUC",
         "alignment_score": "76/100",
         "date_drafted": "2025-10-14",
-        "status": "draft",
         "professor": "Sanmi Koyejo",
+        "status": "draft",
         "email": "sanmi@illinois.edu",
-        "university": "UIUC",
         "research_areas": "ML Fairness, Algorithmic Fairness, ML Theory"
       },
       "date": "2025-10-20",
@@ -1823,12 +1823,12 @@
       "links": [],
       "frontmatter": {
         "email": "girishc@illinois.edu",
-        "professor": "Girish Chowdhary",
-        "date_drafted": "2025-10-14",
-        "status": "draft",
         "university": "UIUC",
         "research_areas": "Agricultural Robotics, Autonomous Systems, Field Robotics",
-        "alignment_score": "75/100"
+        "alignment_score": "75/100",
+        "date_drafted": "2025-10-14",
+        "status": "draft",
+        "professor": "Girish Chowdhary"
       },
       "date": "2025-10-20",
       "modified": null
@@ -4572,5 +4572,5 @@
     "includeBacklinks": true,
     "includeTags": true
   },
-  "generated": "2025-10-20T13:22:53.617615+00:00"
+  "generated": "2025-10-20T14:04:19.435850+00:00"
 }
