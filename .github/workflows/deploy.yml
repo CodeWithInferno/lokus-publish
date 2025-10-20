@@ -1,9 +1,8 @@
-name: Build & Deploy Lokus Site
+name: Deploy Lokus Site to GitHub Pages
 
 on:
   push:
     branches: [main]
-    paths: ['data/**']
   workflow_dispatch:
 
 permissions:
@@ -16,64 +15,12 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Clone Lokus Template
-        run: |
-          git clone --depth 1 https://github.com/lokus-app/publish-template.git template
-          echo "Template cloned successfully"
-
-      - name: Cache Dependencies
-        uses: actions/cache@v3
-        with:
-          path: template/node_modules
-          key: ${{ runner.os }}-npm-${{ hashFiles('template/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-npm-
-
-      - name: Install Dependencies
-        working-directory: ./template
-        run: |
-          npm ci --prefer-offline --no-audit
-          echo "Dependencies installed successfully"
-
-      - name: Verify Data File
-        run: |
-          if [ ! -f "./data/notes.json" ]; then
-            echo "Error: data/notes.json not found"
-            exit 1
-          fi
-          echo "Data file verified: $(wc -c < ./data/notes.json) bytes"
-
-      - name: Build Site
-        working-directory: ./template
-        run: |
-          echo "Starting build process..."
-          npm run build
-          echo "Build completed successfully"
-        env:
-          VITE_DATA_PATH: '../data/notes.json'
-          VITE_BASE_URL: '/'
-
-      - name: Verify Build Output
-        run: |
-          if [ ! -d "./template/dist" ]; then
-            echo "Error: Build output directory not found"
-            exit 1
-          fi
-          echo "Build output size: $(du -sh ./template/dist | cut -f1)"
-          echo "Files in dist:"
-          ls -lh ./template/dist
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
@@ -81,7 +28,7 @@ jobs:
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './template/dist'
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
