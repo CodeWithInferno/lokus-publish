@@ -4310,26 +4310,26 @@
       "name": "1",
       "count": 20,
       "notes": [
-        "hackathon-guide",
-        "emergency-update-purdue-cs-transfer-closed",
-        "step_by_step_how_to_apply",
-        "final-recommendation-where-to-go",
-        "gannon-to-northeastern-transfer-credit-analysis",
-        "the-final-5-smart-application-list",
-        "campus-life-_-culture-comparison",
-        "hong_kong_programs",
-        "professor-research-guide",
-        "caltech",
-        "gpa_3_1_reality_check",
-        "harvard",
-        "13_johns_hopkins_university",
         "final_university_transfer_strategy_complete_list",
-        "15_ucla",
-        "complete-school-comparison-campus-culture-_-safety-schools",
-        "campus-_-cs-programs-deep-dive-analysis",
+        "caltech",
         "ultimate_guide_summer_2026_research_internship",
+        "15_ucla",
+        "professor-research-guide",
         "complete-credit-transfer-analysis-all-5-schools",
-        "gannon-to-georgia-tech-transfer-credit-analysis"
+        "the-final-5-smart-application-list",
+        "hong_kong_programs",
+        "hackathon-guide",
+        "final-recommendation-where-to-go",
+        "13_johns_hopkins_university",
+        "step_by_step_how_to_apply",
+        "gannon-to-georgia-tech-transfer-credit-analysis",
+        "gannon-to-northeastern-transfer-credit-analysis",
+        "harvard",
+        "campus-life-_-culture-comparison",
+        "campus-_-cs-programs-deep-dive-analysis",
+        "emergency-update-purdue-cs-transfer-closed",
+        "gpa_3_1_reality_check",
+        "complete-school-comparison-campus-culture-_-safety-schools"
       ]
     },
     {
@@ -4380,11 +4380,11 @@
       "name": "16",
       "count": 5,
       "notes": [
-        "the-final-5-smart-application-list",
-        "emergency-update-purdue-cs-transfer-closed",
         "complete-school-comparison-campus-culture-_-safety-schools",
         "campus-_-cs-programs-deep-dive-analysis",
-        "final_university_transfer_strategy_complete_list"
+        "final_university_transfer_strategy_complete_list",
+        "emergency-update-purdue-cs-transfer-closed",
+        "the-final-5-smart-application-list"
       ]
     },
     {
@@ -4412,28 +4412,28 @@
       "name": "2",
       "count": 9,
       "notes": [
-        "gannon-to-northeastern-transfer-credit-analysis",
-        "ultimate_guide_summer_2026_research_internship",
-        "complete-school-comparison-campus-culture-_-safety-schools",
         "gannon-to-georgia-tech-transfer-credit-analysis",
         "final-recommendation-where-to-go",
-        "harvard",
+        "ultimate_guide_summer_2026_research_internship",
+        "hong_kong_programs",
         "step_by_step_how_to_apply",
+        "complete-school-comparison-campus-culture-_-safety-schools",
         "campus-life-_-culture-comparison",
-        "hong_kong_programs"
+        "harvard",
+        "gannon-to-northeastern-transfer-credit-analysis"
       ]
     },
     {
       "name": "20",
       "count": 7,
       "notes": [
-        "complete-school-comparison-campus-culture-_-safety-schools",
-        "campus-life-_-culture-comparison",
-        "final-recommendation-where-to-go",
-        "the-final-5-smart-application-list",
         "realistic-transfer-strategy-fall-2026",
         "emergency-update-purdue-cs-transfer-closed",
-        "quick-summary-top-15-schools"
+        "quick-summary-top-15-schools",
+        "final-recommendation-where-to-go",
+        "complete-school-comparison-campus-culture-_-safety-schools",
+        "campus-life-_-culture-comparison",
+        "the-final-5-smart-application-list"
       ]
     },
     {
@@ -4483,20 +4483,20 @@
       "name": "29",
       "count": 2,
       "notes": [
-        "29_uc_santa_barbara",
-        "campus-_-cs-programs-deep-dive-analysis"
+        "campus-_-cs-programs-deep-dive-analysis",
+        "29_uc_santa_barbara"
       ]
     },
     {
       "name": "3",
       "count": 7,
       "notes": [
-        "final-recommendation-where-to-go",
         "ultimate_guide_summer_2026_research_internship",
-        "gannon-to-georgia-tech-transfer-credit-analysis",
+        "campus-life-_-culture-comparison",
         "hackathon-guide",
         "complete-school-comparison-campus-culture-_-safety-schools",
-        "campus-life-_-culture-comparison",
+        "final-recommendation-where-to-go",
+        "gannon-to-georgia-tech-transfer-credit-analysis",
         "gannon-to-northeastern-transfer-credit-analysis"
       ]
     },
@@ -4534,13 +4534,13 @@
       "name": "4",
       "count": 7,
       "notes": [
-        "campus-_-cs-programs-deep-dive-analysis",
         "00_summary_professors_4-8",
-        "hackathon-guide",
         "gannon-to-northeastern-transfer-credit-analysis",
-        "ultimate_guide_summer_2026_research_internship",
         "gannon-to-georgia-tech-transfer-credit-analysis",
-        "complete-school-comparison-campus-culture-_-safety-schools"
+        "complete-school-comparison-campus-culture-_-safety-schools",
+        "campus-_-cs-programs-deep-dive-analysis",
+        "hackathon-guide",
+        "ultimate_guide_summer_2026_research_internship"
       ]
     },
     {
@@ -4555,17 +4555,17 @@
       "name": "40-45",
       "count": 2,
       "notes": [
-        "realistic-transfer-strategy-fall-2026",
-        "the-final-5-smart-application-list"
+        "the-final-5-smart-application-list",
+        "realistic-transfer-strategy-fall-2026"
       ]
     },
     {
       "name": "40-50",
       "count": 3,
       "notes": [
+        "realistic-transfer-strategy-fall-2026",
         "the-final-5-smart-application-list",
-        "final-recommendation-where-to-go",
-        "realistic-transfer-strategy-fall-2026"
+        "final-recommendation-where-to-go"
       ]
     },
     {
@@ -4614,18 +4614,18 @@
       "name": "45-50",
       "count": 2,
       "notes": [
-        "the-final-5-smart-application-list",
-        "realistic-transfer-strategy-fall-2026"
+        "realistic-transfer-strategy-fall-2026",
+        "the-final-5-smart-application-list"
       ]
     },
     {
       "name": "45b7d1",
       "count": 4,
       "notes": [
-        "04-knowledge-graph-diagrams",
-        "03-plugin-system-diagrams",
         "01-mcp-server-diagrams",
-        "02-graph-rendering-diagrams"
+        "02-graph-rendering-diagrams",
+        "03-plugin-system-diagrams",
+        "04-knowledge-graph-diagrams"
       ]
     },
     {
@@ -4639,8 +4639,8 @@
       "name": "47",
       "count": 5,
       "notes": [
-        "the-final-5-smart-application-list",
         "complete-school-comparison-campus-culture-_-safety-schools",
+        "the-final-5-smart-application-list",
         "hong_kong_programs",
         "47_indiana_university_bloomington",
         "emergency-update-purdue-cs-transfer-closed"
@@ -4658,8 +4658,8 @@
       "count": 3,
       "notes": [
         "04-knowledge-graph-diagrams",
-        "01-mcp-server-diagrams",
-        "03-plugin-system-diagrams"
+        "03-plugin-system-diagrams",
+        "01-mcp-server-diagrams"
       ]
     },
     {
@@ -4680,29 +4680,29 @@
       "name": "4ecdc4",
       "count": 4,
       "notes": [
-        "03-plugin-system-diagrams",
         "02-graph-rendering-diagrams",
         "01-mcp-server-diagrams",
-        "04-knowledge-graph-diagrams"
+        "04-knowledge-graph-diagrams",
+        "03-plugin-system-diagrams"
       ]
     },
     {
       "name": "5",
       "count": 13,
       "notes": [
-        "complete-school-comparison-campus-culture-_-safety-schools",
-        "00_summary_professors_4-8",
-        "quick-summary-top-15-schools",
-        "complete-credit-transfer-analysis-all-5-schools",
+        "georgia-tech",
+        "realistic-transfer-strategy-fall-2026",
         "ultimate_guide_summer_2026_research_internship",
+        "gannon-to-georgia-tech-transfer-credit-analysis",
+        "hackathon-guide",
+        "complete-school-comparison-campus-culture-_-safety-schools",
+        "quick-summary-top-15-schools",
+        "the-final-5-smart-application-list",
         "campus-_-cs-programs-deep-dive-analysis",
         "campus-life-_-culture-comparison",
-        "gannon-to-georgia-tech-transfer-credit-analysis",
+        "complete-credit-transfer-analysis-all-5-schools",
         "final-recommendation-where-to-go",
-        "the-final-5-smart-application-list",
-        "hackathon-guide",
-        "georgia-tech",
-        "realistic-transfer-strategy-fall-2026"
+        "00_summary_professors_4-8"
       ]
     },
     {
@@ -4723,8 +4723,8 @@
       "name": "55",
       "count": 2,
       "notes": [
-        "the-final-5-smart-application-list",
-        "complete-school-comparison-campus-culture-_-safety-schools"
+        "complete-school-comparison-campus-culture-_-safety-schools",
+        "the-final-5-smart-application-list"
       ]
     },
     {
@@ -4953,9 +4953,9 @@
       "count": 4,
       "notes": [
         "02-graph-rendering-diagrams",
+        "04-knowledge-graph-diagrams",
         "03-plugin-system-diagrams",
-        "01-mcp-server-diagrams",
-        "04-knowledge-graph-diagrams"
+        "01-mcp-server-diagrams"
       ]
     },
     {
@@ -4969,9 +4969,9 @@
       "name": "ff6b6b",
       "count": 4,
       "notes": [
-        "04-knowledge-graph-diagrams",
         "01-mcp-server-diagrams",
         "03-plugin-system-diagrams",
+        "04-knowledge-graph-diagrams",
         "02-graph-rendering-diagrams"
       ]
     },
@@ -4993,9 +4993,9 @@
       "name": "folder-organization",
       "count": 3,
       "notes": [
+        "switzerland_programs",
         "germany_programs",
-        "hong_kong_programs",
-        "switzerland_programs"
+        "hong_kong_programs"
       ]
     },
     {
@@ -5045,9 +5045,9 @@
       "name": "testing",
       "count": 3,
       "notes": [
-        "test_note_3",
+        "test_note_2",
         "test_note_1",
-        "test_note_2"
+        "test_note_3"
       ]
     },
     {
@@ -5068,7 +5068,7 @@
   "metadata": {
     "title": "CodeWithInferno",
     "description": "Published notes from Lokus",
-    "generated": "2025-10-20T14:17:15.455306+00:00",
+    "generated": "2025-10-20T15:17:39.762310+00:00",
     "noteCount": 198,
     "tagCount": 96
   }
